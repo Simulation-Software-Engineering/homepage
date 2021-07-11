@@ -1,5 +1,7 @@
 site_name: Simulation Software Engineering
 
+repo_name:  Simulation-Software-Engineering/homepage
+repo_url: https://github.com/Simulation-Software-Engineering/homepage
 
 theme:
   name: material
