@@ -3,3 +3,18 @@ site_name: Simulation Software Engineering
 
 theme:
   name: material
+#  icon:
+#    logo: Simulation-Software-Engineering/homepage
+#    repo: fontawesome/brands/git-alt
+  palette:
+    primary: blue
+    accent: blue
+  features:
+    - navigation.tabs
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ajaust
+    - icon: fontawesome/brands/github
+      link: https://github.com/uekerman
