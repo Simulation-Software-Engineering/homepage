@@ -1,7 +1,14 @@
 site_name: Simulation Software Engineering
+site_url: https://simulation-software-engineering.github.io/homepage/
+site_author: Alexander Jaust and Benjamin Uekermann
+site_description: >-
+  TBD
 
+
+# Point to repository name and set base branch to main
 repo_name:  Simulation-Software-Engineering/homepage
 repo_url: https://github.com/Simulation-Software-Engineering/homepage
+edit_uri: edit/main/docs/
 
 theme:
   name: material
