@@ -1,1 +1,5 @@
 site_name: Simulation Software Engineering
+
+
+theme:
+  name: material
