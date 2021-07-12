@@ -4,6 +4,10 @@ site_author: Alexander Jaust and Benjamin Uekermann
 site_description: >-
   TBD
 
+nav:
+  - Simulation Software Engineering: index.md
+  - Course information: course-information.md
+  - Staff/Contact: staff.md
 
 # Point to repository name and set base branch to main
 repo_name:  Simulation-Software-Engineering/homepage
@@ -15,9 +19,18 @@ theme:
 #  icon:
 #    logo: Simulation-Software-Engineering/homepage
 #    repo: fontawesome/brands/git-alt
+#  palette:
+#    primary: blue
+#    accent: blue
   palette:
-    primary: blue
-    accent: blue
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
   features:
     - navigation.tabs
 
