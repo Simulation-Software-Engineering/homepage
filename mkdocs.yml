@@ -40,3 +40,9 @@ extra:
       link: https://github.com/ajaust
     - icon: fontawesome/brands/github
       link: https://github.com/uekerman
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - pymdownx.superfences
