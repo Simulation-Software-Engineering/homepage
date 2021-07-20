@@ -1,5 +1,7 @@
 # Homepage for lecture "Simulation Software Engineering"
 
+![publish-homepage](https://github.com/Simulation-Software-Engineering/homepage/actions/workflows/ci.yml/badge.svg)
+
 This repository contains the content of for the homepage of the "Simulation Software Engineering" lecture and University of Stuttgart (Germany). The homepage is built on [mkdocs](https://www.mkdocs.org), the ["Material for MkDocs" theme](https://squidfunk.github.io/mkdocs-material/), and corresponding plugins.
 
 
