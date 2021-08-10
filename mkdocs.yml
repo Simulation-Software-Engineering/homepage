@@ -34,6 +34,8 @@ theme:
   features:
     - navigation.tabs
 
+  logo: logo/sse-logo.svg
+
 extra:
   social:
     - icon: fontawesome/brands/github
