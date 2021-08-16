@@ -34,7 +34,7 @@ theme:
   features:
     - navigation.tabs
 
-  logo: logo/sse-logo.svg
+  logo: logo/sse-logo-200x200.png
 
 extra:
   social:
