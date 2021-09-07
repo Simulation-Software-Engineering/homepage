@@ -23,7 +23,7 @@ The course is about simulation software. More precisely, we discuss the software
 
 ## Target audience
 
-This course is aimed at master-level students from Computer Science, Simulation Sciences and related fields, but is also open to PhD students or anyone else interested. We expect you to have some knowledge in software development, basic tools and programming. However, we also give you extra information or point to additional resources if you have the feeling you need to catch up with some topic.
+This course is aimed at master-level students from Computer Science, Simulation Technology and related fields, but is also open to PhD students or anyone else interested. We expect you to have some knowledge in software development, basic tools and programming. However, we also give you extra information or point to additional resources if you have the feeling you need to catch up with some topic.
 
 *An example*: In the lecture, we shortly touch on [Git](https://git-scm.com/)
 
