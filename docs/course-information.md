@@ -19,7 +19,7 @@ Read more:
 
 ## Content of the course
 
-The course is about simulation software. More precisely, we discuss the software tools used to ensure good software engineering for open-source simulation software such as preCICE, DuMUX, TRILINOS, or FEniCS. This is not a course focused on programming and programming paradigms, but on the techniques and the correspnding tools. Some examples are version control (Git, GitHub, GitLab), virtualization/containerization (Docker), continuous integration (GitHub Actions, GitLab CI), or documentation  (Jekyll, mkdocs, sphinx).
+The course is about simulation software. More precisely, we discuss the software tools used to ensure good software engineering for open-source simulation software such as FEniCS, PETSc, TRILINOS, DuMuX, preCICE, or SU2. This is not a course focused on programming and programming paradigms, but on the techniques and the correspnding tools. Some examples are version control (Git, GitHub, GitLab), virtualization/containerization (Docker), continuous integration (GitHub Actions, GitLab CI), or documentation  (Jekyll, mkdocs, sphinx).
 
 ## Target audience
 
@@ -44,7 +44,7 @@ There are two types of assignments. We have smaller weekly lab work, which helps
 
 Parallel to the lab work, you work on an individual challenge, where you apply the learned concepts and tools with the ultimate goal to contribute to a large-scale community simulation software package. The challenge is structured in three parts, whereas each part is completed by a short presentation of the intermediate results in class:
 
-1. You get acquainted with the basic functionality of a large-scale simulation software package (such as FEniCS, PETSc, TRILINOS, or SU2) by studying tutorials and documentation (first quarter of the course)
+1. You get acquainted with the basic functionality of a large-scale simulation software package (such as FEniCS, PETSc, TRILINOS, DuMuX, preCICE, or SU2) by studying tutorials and documentation (first quarter of the course)
 2. You analyze the RSE infrastructure and the development cycle of the software package (second quarter of the course). 
 3. You contribute to the software package. The contribution can be small, but should not be trivial. Possible examples: Adding a new tutorial, extending the documentation, working on a "good first issue", adding support of a new package manager. Important is to properly go through all development steps if possible (contact community, open issue, open pull request, test, review, merge).
 
