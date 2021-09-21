@@ -11,4 +11,4 @@ exclude_rule 'MD040'
 
 # Nested lists should be indented with four spaces.
 # Modification: Question marks should be allowed
-rule 'MD26', :punctuation => '.,;:!'
+rule 'MD026', :punctuation => '.,;:!'
