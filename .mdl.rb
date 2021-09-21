@@ -15,3 +15,6 @@ exclude_rule 'MD040'
 # Nested lists should be indented with four spaces.
 # Modification: Question marks should be allowed
 rule 'MD026', :punctuation => '.,;:!'
+
+# Ordered lists must have prefix that increases in order
+rule 'MD029', :style => :ordered
