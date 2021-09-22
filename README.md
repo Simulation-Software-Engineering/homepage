@@ -2,7 +2,7 @@
 
 ![publish-homepage](https://github.com/Simulation-Software-Engineering/homepage/actions/workflows/ci.yml/badge.svg)
 
-This repository contains the content of for the homepage of the "Simulation Software Engineering" lecture and University of Stuttgart (Germany). The homepage is built on [mkdocs](https://www.mkdocs.org), the ["Material for MkDocs" theme](https://squidfunk.github.io/mkdocs-material/), and corresponding plugins.
+This repository contains the content of for the homepage of the "Simulation Software Engineering" lecture at the University of Stuttgart (Germany). The homepage is built on [mkdocs](https://www.mkdocs.org), the ["Material for MkDocs" theme](https://squidfunk.github.io/mkdocs-material/), and corresponding plugins.
 
 
 ## Structure of the repository
@@ -14,7 +14,7 @@ This repository contains the content of for the homepage of the "Simulation Soft
 
 ## Build homepage
 
-**Dependencies**
+### Dependencies
 
 - [Python 3](https://www.python.org/)
 - [MkDocs](https://www.mkdocs.org)
@@ -28,12 +28,10 @@ The tools used are all based on Python 3 so the easiest way to install the theme
 pip install mkdocs-material
 ```
 
-will install the MkDocs, theme, and the plugins.
-
-If you use an operating system with  `pip` point
+will install MkDocs, the theme, and the plugins.
 
 Alternative ways of building the homepage using MkDocs and Material for MkDocs are described in the [documentation of the theme](https://squidfunk.github.io/mkdocs-material/getting-started/).
 
-**Building the homepage locally**
+### Building the homepage locally
 
 After installing all dependencies change into this directory (the directory containing the file named `mkdocs.yml`) and run `mkdocs serve`. This will start a local webserver on `127.0.0.1:8000`. Type in this address in a browser to see the local version of the homepage. While `mkdocs serve` is running it will monitor the files for changes and rebuild the homepage as needed.
