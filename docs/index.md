@@ -1,7 +1,9 @@
 # Simulation Software Engineering
 
 !!! info
-    This page is under construction and will be updated regularly.
+    - We plan to have **on-site** lectures and exercises.
+    - This page is under construction and will be updated regularly.
+
 
 Welcome to the homepage of the course "Simulation Software Engineeering" at the University of Stuttgart. The homepage is currently under construction, but you can already find general information about the course under [course information](course-information.md) and in the video below
 
