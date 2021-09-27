@@ -1,6 +1,7 @@
 # Homepage for lecture "Simulation Software Engineering"
 
 ![publish-homepage](https://github.com/Simulation-Software-Engineering/homepage/actions/workflows/ci.yml/badge.svg)
+![markdownlint](https://github.com/Simulation-Software-Engineering/homepage/actions/workflows/markdownlint.yml/badge.svg)
 
 This repository contains the content of for the homepage of the "Simulation Software Engineering" lecture at the University of Stuttgart (Germany). The homepage is built on [mkdocs](https://www.mkdocs.org), the ["Material for MkDocs" theme](https://squidfunk.github.io/mkdocs-material/), and corresponding plugins.
 
@@ -35,3 +36,13 @@ Alternative ways of building the homepage using MkDocs and Material for MkDocs a
 ### Building the homepage locally
 
 After installing all dependencies change into this directory (the directory containing the file named `mkdocs.yml`) and run `mkdocs serve`. This will start a local webserver on `127.0.0.1:8000`. Type in this address in a browser to see the local version of the homepage. While `mkdocs serve` is running it will monitor the files for changes and rebuild the homepage as needed.
+
+## Linting
+
+The markdown files can be checked using [markdownlint](https://github.com/markdownlint/markdownlint/). Once the linter is installed one can run it locally from the root of this repository using
+
+```
+mdl docs/
+```
+
+It will automatically read the markdownlint configuration of this repository. The linter is configured in the files `.mdl.rb` and `.mdlrc`. The majority of the configuration is done in `.mdl.rb`.
