@@ -7,6 +7,7 @@ site_description: >-
 nav:
   - Simulation Software Engineering: index.md
   - Course information: course-information.md
+  - Course content: course-content.md
   - Staff/Contact: staff.md
 
 # Point to repository name and set base branch to main
