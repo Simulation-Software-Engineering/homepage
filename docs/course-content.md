@@ -10,6 +10,9 @@ The course is about simulation software. More precisely, we discuss the software
 
 ### Organization and Introduction to RSE
 
+- Lecture and lab organization
+- What is research software engineering and what is special about it?
+
 ### Version Control
 
 - Refresh and organize students' existing knowledge on git (learn how to learn more).
