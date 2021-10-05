@@ -4,10 +4,10 @@ title: Course content
 description: >-
     Information about course, exercise and lab content
 ---
+
 ## Lecture and lab assignments
 
 The lecture and the accompanying lab assignments are organized in 7 chapters.
-
 
 ### 1. Organization and Introduction to RSE
 
