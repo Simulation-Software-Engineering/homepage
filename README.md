@@ -10,7 +10,8 @@ This repository contains the content of for the homepage of the "Simulation Soft
 
 - `mkdocs.yml`: MkDocs configuration file
 - `docs/`: The directory contains the Markdown files for the different pages of the homepage.
-- `.github/workflows/ci.yml`: Definition file of GitHub action which builds the homepage on every successfull push.
+- `.github/workflows/publish-homepage.yml`: Definition file of GitHub action which builds the homepage on every successfull push to master. It can also be triggered manually.
+- `.github/workflows/markdownlint.yml`: Definition file of GitHub action which checks the markdown files for proper formatting using [markdownlint](https://github.com/markdownlint/markdownlint/). More information is given below.
 - `README.md`: The Readme file you are currently reading
 
 ## Build homepage
