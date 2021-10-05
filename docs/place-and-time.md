@@ -52,4 +52,4 @@ Please note that we might adjust the time table during the semester.
 |   13.1 | 03.02. |Lecture | 7 | tbd. | |
 |   13.2 | 03.02. |Lecture | 7 | tbd. | |
 |   14.1 | 10.02. |Presentations | C | final student presentations | students|
-|   14.2 | 10.02. |Presentations | C | final student presentations | students| 
+|   14.2 | 10.02. |Presentations | C | final student presentations | students|

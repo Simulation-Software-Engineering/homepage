@@ -3,7 +3,7 @@
 !!! info "Lecture and exercise in winter term 21/22"
     We plan to have **on-site** lectures and exercises. Please contact us if you cannot join on-site, but only online.
 
-Welcome to the homepage of the course "Simulation Software Engineeering" at the University of Stuttgart. 
+Welcome to the homepage of the course "Simulation Software Engineeering" at the University of Stuttgart.
 You find general information about the course under [course information](course-information.md) and in the video below.
 
 <p align="center">
