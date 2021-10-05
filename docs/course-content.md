@@ -2,7 +2,7 @@
 layout: page
 title: Course content
 description: >-
-    Information about course, exercise and lab content
+    Information about the course content
 ---
 
 ## Lecture and lab assignments
