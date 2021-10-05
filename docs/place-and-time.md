@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Time and place
+title: Place and time
 description: >-
     Time table and lecture hall
 ---
