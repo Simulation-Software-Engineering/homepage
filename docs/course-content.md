@@ -12,6 +12,7 @@ The course is about simulation software. More precisely, we discuss the software
 
 - Lecture and lab organization
 - What is research software engineering and what is special about it?
+- Why do we need research software engineering?
 
 ### Version Control
 
@@ -33,32 +34,32 @@ The course is about simulation software. More precisely, we discuss the software
 
 - Comprehending the necessity to package code
 - Using package managers to package code and upload to a remote managing platform
-- How to automatize compilation of codes.
+- What package managers do exist for high-performance computing applications?
 - How to easily add your code to package managers for reproducibility.
-- Reproducible builds/environments?
+- How to create reproducible builds or environments?
 
 ### Documentation
 
 - Understand what you want to document and to document different types aspects (code, development, API, usage).
 - The students can choose the right tool for the documentation needs.
-- The students now common documentation tools for C++ and Python.
-- The students now fundamentals of technical writing.
+- The students know common documentation tools for C++ and Python.
+- The students know fundamentals of technical writing.
 - Students understand the importance of documentation for themselves and others.
 
 ### Testing and Continuous Integration
 
 - What type of test to use for what use case.
-- Importance of tests.
-- Automatic testing using GitHub and GitLab.
-- Different testing frameworks.
+- Why are tests important?
+- The students learn how to automate tests using GitHub and GitLab.
+- The students have an overview over different testing frameworks.
 
 ### Legal, Archiving, Community, and More
 
 - Understand why it is important to add a license to one's code.
-- Importance of long term storage of data.
-- Data and metadata documentation using DataVerse.
-- Importance of reproducibility.
-- How to build and interact with user to build a community.
+- Importance of long term storage/availability of data and ow to make it available.
+- Data and metadata documentation using DataVerse ([DaRUS](https://darus.uni-stuttgart.de/)).
+- Importance of reproducibility of research.
+- How to build and interact with users to build a community.
 
 ## Assignments and lab work
 

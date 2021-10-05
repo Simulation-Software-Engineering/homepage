@@ -7,7 +7,6 @@ description: >-
 
 ## About
 
-
 Software is an integral part of nowadays research. A [UK survey in 2014](https://zenodo.org/record/1183562#.YTHZ91uxUUE) found that 7 out of 10 researchers could not conduct research without software. However, research software engineering (RSE) does not yet get the necessary attention in research and in teaching. All this applies to simulation software in particular.
 
 Read more:
@@ -34,4 +33,3 @@ We encourage **you** to help us extend these resources and fix mistakes.
 ## Additional information for SimTech students
 
 You might also be interested in the course *Sustainable Development of Simulation Software* by Bernd Flemisch and Dennis Gläser, which is starting in summer term 2022. Their course has a stronger focus on software engineering patterns and project work in C++ for simulation software. Our course *Simulation Software Engineering* focuses more on the tools commonly used in the development of simulation software. The course of Flemisch/Gläser is **not** a prerequisite to follow our course on simulation software engineering and neither vice versa. We encourage you, however, to follow both courses if you are interested in the topic.
-
