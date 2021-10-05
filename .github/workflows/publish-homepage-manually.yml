@@ -1,0 +1,8 @@
+name: Manually triggered publication of homepage
+on:
+  workflow_dispatch
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ./.github/actions/my-action@v1
