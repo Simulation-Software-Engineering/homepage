@@ -4,6 +4,7 @@ title: Place and time
 description: >-
     Time table and lecture hall
 ---
+
 ## Lecture hall
 
 All sessions take place in [38.04](https://campus.uni-stuttgart.de/cusonline/pl/ui/$ctx;lang=DE/ris.ris?pOrgNr=599&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=6050009&pRaumNr=7051&pActionFlag=A&pShowEinzelraum=J), Universitätsstr. 38, ground floor.
@@ -52,5 +53,3 @@ Please note that we might adjust the time table during the semester.
 |   13.2 | 03.02. |Lecture | 7 | tbd. | |
 |   14.1 | 10.02. |Presentations | C | final student presentations | students|
 |   14.2 | 10.02. |Presentations | C | final student presentations | students| 
-
-
