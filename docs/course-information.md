@@ -5,7 +5,7 @@ description: >-
     Course policies and information.
 ---
 
-## About
+## Research Software Engineering
 
 Software is an integral part of nowadays research. A [UK survey in 2014](https://zenodo.org/record/1183562#.YTHZ91uxUUE) found that 7 out of 10 researchers could not conduct research without software. However, research software engineering (RSE) does not yet get the necessary attention in research and in teaching. All this applies to simulation software in particular.
 
@@ -13,6 +13,12 @@ Read more:
 
 - Association of German Research Software Engineers: [de-RSE](https://de-rse.org/en/)
 - [Position paper of de-RSE](https://f1000research.com/articles/9-295/v2)
+
+## Idea of the course
+
+The course is about simulation software. More precisely, we discuss the software tools used to ensure good software engineering for open-source simulation software such as FEniCS, PETSc, TRILINOS, DuMuX, preCICE, or SU2. This is not a course focused on programming and programming paradigms, but on the techniques and the corresponding tools. Some examples are version control (Git, GitHub, GitLab), virtualization/containerization (Docker), continuous integration (GitHub Actions, GitLab CI), or documentation  (Jekyll, mkdocs, sphinx). We study these concepts and tools in lectures and (almost) weekly lab assignments. 
+In parallel, you work on an individual challenge, where you apply the learned concepts and tools with the ultimate goal to contribute to a large-scale community simulation software package.
+[Read more on the course content](course-content.md).
 
 ## Target audience
 
