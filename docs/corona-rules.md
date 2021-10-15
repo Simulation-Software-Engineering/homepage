@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Place and time
+title: Corona rules
 description: >-
-    Time table and lecture hall
+    Corona rules
 ---
 
 Let us try to all work together to make this as smooth as possible.
@@ -16,5 +16,3 @@ Let us try to all work together to make this as smooth as possible.
 * Keep distance, but please do not spread equally over the large room
 
 [University of Stuttgart Corona Newsticker](https://www.uni-stuttgart.de/universitaet/aktuelles/meldungen/corona/)
-
-
