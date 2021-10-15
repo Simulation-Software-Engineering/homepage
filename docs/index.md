@@ -1,7 +1,7 @@
 # Simulation Software Engineering
 
 !!! info "Lecture and exercise in winter term 21/22"
-    Please take notice of and adhere to the [Corona rules](corona-rules.md). We plan to have **on-site** lectures and exercises. Please contact us if you cannot join on-site, but only online. 
+    Please take notice of and adhere to the [Corona rules](corona-rules.md). We plan to have **on-site** lectures and exercises. Please contact us if you cannot join on-site, but only online.
 
 Welcome to the homepage of the course "Simulation Software Engineeering" at the University of Stuttgart.
 You find general information about the course under [course information](course-information.md) and in the video below.
