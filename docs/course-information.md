@@ -36,6 +36,10 @@ All teaching resources are (will be) available online on GitHub and on this home
 
 We encourage **you** to help us extend these resources and fix mistakes.
 
+## Exam
+
+The course has a so-called *"course accompanying examination"*. This means, there will be no single exam. Instead, we evaluate the students' performance on the individual challenge, on the weekly exercises, and on the overall engagement. Still, wou will have to register for the *"exam"* on campus. **Point of no return**: Once you gave the first presentation (Nov 11), you have to register.
+
 ## Additional information for SimTech students
 
 You might also be interested in the course *Sustainable Development of Simulation Software* by Bernd Flemisch and Dennis Gläser, which is starting in summer term 2022. Their course has a stronger focus on software engineering patterns and project work in C++ for simulation software. Our course *Simulation Software Engineering* focuses more on the tools commonly used in the development of simulation software. The course of Flemisch/Gläser is **not** a prerequisite to follow our course on simulation software engineering and neither vice versa. We encourage you, however, to follow both courses if you are interested in the topic.
