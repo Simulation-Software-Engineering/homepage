@@ -33,10 +33,10 @@ Please note that we might adjust the time table during the semester.
 |    3.2 | 04.11. |Lecture | 3 | Docker, Singularity | Alex |
 |    4.1 | 11.11. |Lab | 3 | tbd.  | Alex |
 |    4.2 | 11.11. |Presentations | C | 1st student presentations | students|
-|    5.1 | 18.11. |Lecture | 4 | CMake | |
-|    5.2 | 18.11. |Lab | 4 | CMake | |
-|    6.1 | 25.11. |Lecture | 4 | Packaging and package managers, pip, conda | Ishaan |
-|    6.2 | 25.11. |Lab | 4 | pip and PyPI exercise | Ishaan |
+|    5.1 | 18.11. |Lecture | 4 | Packaging and package managers, pip, conda | Ishaan |
+|    5.2 | 18.11. |Lab | 4 | pip and PyPI exercise | Ishaan |
+|    6.1 | 25.11. |Lecture | 4 | CMake | |
+|    6.2 | 25.11. |Lab | 4 | CMake | |
 |    7.1 | 02.12. |Lecture | 4 | tbd. |  |
 |    7.2 | 02.12. |Lab | 4 | tbd. | |
 |    8.1 | 09.12. |Lecture | 5 | documentation tools | Alex |
