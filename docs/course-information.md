@@ -32,7 +32,7 @@ This course is aimed at master-level students from Computer Science, Simulation 
 
 ## Resources
 
-All teaching resources are (will be) available online on GitHub and on this homepage.
+All teaching resources are available (open-source) on [GitHub](https://github.com/Simulation-Software-Engineering/Lecture-Material) and through this homepage.
 
 We encourage **you** to help us extend these resources and fix mistakes.
 

@@ -21,13 +21,13 @@ There is not strict distinction between both slots. It depends on the topic and 
 
 ## Time table
 
-Please note that we might adjust the time table during the semester.
+Please note that we might adjust the time table during the semester. You find a more detailed version on [GitHub](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/timetable.md).
 
 | Week | Date | Type | Chapter | Topic | Lecturer |
 | ---- | ---- | ---- | ------- |------ | -------- |
-|    1.1 | 21.10. |Lecture | 1-2 | course intro, intro to SSE, VC basics | Benjamin |
-|    1.2 | 21.10. |Lecture | 2 | Git: my workflow + quiz, software projects for challenge  | Benjamin |
-|    2.1 | 28.10. |Lecture + presentations| 2 | *my neat little Git trick*, merge vs rebase, working in teams| Benjamin |
+|    1.1 | 21.10. |Lecture | 1-2 | [course planning](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/organization/material/intro_course.md), [intro to RSE](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/organization/material/rse_basics.md), [VC basics](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/version-control/material/intro_slides.md), [Git basics](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/version-control/overview.md#recap-of-git-basics) | Benjamin |
+|    1.2 | 21.10. |Lecture | 2 | Git: [my workflow](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/version-control/overview.md#how-i-work-with-git) + [quiz](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/version-control/material/git_quiz.md), [challenge intro](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/organization/material/challenge_intro.md)  | Benjamin |
+|    2.1 | 28.10. |Lecture + presentations| 2 | *my neat little Git trick*, merge vs. rebase, working in teams| Benjamin |
 |    2.2 | 28.10. |Lab | 2 | *Git cheat sheet*  | Benjamin |
 |    3.1 | 04.11. |Lecture | 3 | Virtualbox, Vagrant | Alex |
 |    3.2 | 04.11. |Lecture | 3 | Docker, Singularity | Alex |

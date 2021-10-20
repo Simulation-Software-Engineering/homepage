@@ -9,13 +9,13 @@ description: >-
 
 The lecture and the accompanying lab assignments are organized in 7 chapters.
 
-### 1. Organization and Introduction to RSE
+### 1. [Organization and Introduction to RSE](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/organization/overview.md)
 
 - Lecture, lab organization, and the challenge
 - What is research software engineering and what is special about it?
 - Why do we need research software engineering?
 
-### 2. Version Control
+### 2. [Version Control](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/version-control/overview.md)
 
 - Refresh and organize students' existing knowledge on git (learn how to learn more).
 - Students can explain difference between merge and rebase and when to use what.
