@@ -29,9 +29,9 @@ Please note that we might adjust the time table during the semester. You find a 
 |    1.2 | 21.10. |Lecture | 2 | Git: [my workflow](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/version-control/overview.md#how-i-work-with-git) + [quiz](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/version-control/material/git_quiz.md), [challenge intro](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/organization/material/challenge_intro.md)  | Benjamin |
 |    2.1 | 28.10. |Lecture + presentations| 2 | *my neat little Git trick*, merge vs. rebase, working in teams| Benjamin |
 |    2.2 | 28.10. |Lab | 2 | *Git cheat sheet*  | Benjamin |
-|    3.1 | 04.11. |Lecture | 3 | Virtualbox, Vagrant | Alex |
-|    3.2 | 04.11. |Lecture | 3 | Docker, Singularity | Alex |
-|    4.1 | 11.11. |Lab | 3 | tbd.  | Alex |
+|    3.1 | 04.11. |Lecture | 3 | Virtualbox, Vagrant | Alexander |
+|    3.2 | 04.11. |Lecture | 3 | Docker, Singularity | Alexander |
+|    4.1 | 11.11. |Lab | 3 | tbd.  | Alexander |
 |    4.2 | 11.11. |Presentations | C | 1st student presentations | students|
 |    5.1 | 18.11. |Lecture | 4 | Packaging and package managers, pip, conda | Ishaan |
 |    5.2 | 18.11. |Lab | 4 | pip and PyPI exercise | Ishaan |
@@ -39,7 +39,7 @@ Please note that we might adjust the time table during the semester. You find a 
 |    6.2 | 25.11. |Lab | 4 | CMake | |
 |    7.1 | 02.12. |Lecture | 4 | tbd. |  |
 |    7.2 | 02.12. |Lab | 4 | tbd. | |
-|    8.1 | 09.12. |Lecture | 5 | documentation tools | Alex |
+|    8.1 | 09.12. |Lecture | 5 | documentation tools | Alexander |
 |    8.2 | 09.12. |Lab | 5 | tbd. |  |
 |    9.1 | 16.12. |Lecture | 5 | Technical writing | Benjamin |
 |    9.2 | 16.12. |Presentations | C | 2nd student presentations | students |
