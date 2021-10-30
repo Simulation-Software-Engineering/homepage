@@ -18,7 +18,7 @@ jobs:
       with:
         ruby-version: 2.6.x
     - name: Check links
-      #FIXME Need to whitelist the US3 homepage as it created a duplication error.
+      #FIXME Need to allow duplicates (same links on the same page)
       run: |
         gem install awesome_bot
-        awesome_bot docs/*.md --white-list https://www.ipvs.uni-stuttgart.de/departments/us3/
+        awesome_bot docs/*.md README.md --allow-dupe
