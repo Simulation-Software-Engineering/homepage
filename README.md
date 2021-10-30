@@ -2,6 +2,7 @@
 
 ![publish-homepage](https://github.com/Simulation-Software-Engineering/homepage/actions/workflows/publish-homepage.yml/badge.svg)
 ![markdownlint](https://github.com/Simulation-Software-Engineering/homepage/actions/workflows/markdownlint.yml/badge.svg)
+![linkchecker](https://github.com/Simulation-Software-Engineering/homepage/actions/workflows/linkchecker.yml/badge.svg)
 
 This repository contains the content of for the homepage of the "Simulation Software Engineering" lecture at the University of Stuttgart (Germany). The homepage is built on [mkdocs](https://www.mkdocs.org), the ["Material for MkDocs" theme](https://squidfunk.github.io/mkdocs-material/), and corresponding plugins.
 
@@ -42,8 +43,16 @@ After installing all dependencies change into this directory (the directory cont
 
 The markdown files can be checked using [markdownlint](https://github.com/markdownlint/markdownlint/). Once the linter is installed one can run it locally from the root of this repository using
 
-```
+```bash
 mdl docs/
 ```
 
 It will automatically read the markdownlint configuration of this repository. The linter is configured in the files `.mdl.rb` and `.mdlrc`. The majority of the configuration is done in `.mdl.rb`.
+
+## Link checking
+
+We currently check links via [awesome_bot](https://github.com/dkhamsing/awesome_bot). If you want to run the checks locally, you must install the `awesome_bot` gem and then run the following command from the root of the repository:
+
+```bash
+awesome_bot docs/*.md README.md --allow-dupe
+```
