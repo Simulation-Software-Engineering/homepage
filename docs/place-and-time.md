@@ -33,8 +33,8 @@ Please note that we might adjust the time table during the semester. You find a 
 |    3.2 | 04.11. |Lecture | 3 | [Docker quiz](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/virtualization-and-containers/material/docker_quiz.md), [Docker](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/virtualization-and-containers/material/docker_slides.md), [Singularity](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/virtualization-and-containers/material/singularity_slides.md)| Alexander |
 |    4.1 | 11.11. |Lab | 3 | [VirtualBox, Vagrant, Docker, Singularity](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/virtualization-and-containers/material/exercise_vm_containers_text.md)  | Alexander |
 |    4.2 | 11.11. |Presentations | C | 1st student presentations | students|
-|    5.1 | 18.11. |Lecture | 4 | Packaging and package managers, pip, conda | Ishaan |
-|    5.2 | 18.11. |Lab | 4 | pip and PyPI exercise | Ishaan |
+|    5.1 | 18.11. |Lecture | 4 | [Introduction to Packaging ](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/intro_slides.md), [Packaging Python Code (setup.py, pip, conda)](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/packaging_python_slides.md) | Ishaan |
+|    5.2 | 18.11. |Lab | 4 | [Packaging Python Code Exercise](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/exercise_python_packaging_text.md) | Ishaan |
 |    6.1 | 25.11. |Lecture | 4 | CMake | |
 |    6.2 | 25.11. |Lab | 4 | CMake | |
 |    7.1 | 02.12. |Lecture | 4 | tbd. |  |
