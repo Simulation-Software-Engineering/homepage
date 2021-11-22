@@ -22,7 +22,7 @@ The lecture and the accompanying lab assignments are organized in 7 chapters.
 - How to use git workflows to organize research software development in a team.
 - Get to know a few useful GitHub/GitLab standards and a few helpful tools.
 
-### 3. Virtualization and Containerization
+### 3. [Virtualization and Containerization](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/virtualization-and-containers/overview.md)
 
 - What is the difference between virtualization and containers?
 - When to use virtual machines and when containers.
@@ -31,7 +31,7 @@ The lecture and the accompanying lab assignments are organized in 7 chapters.
 - Understand pros and cons of different container technologies.
 - Student can set up their own containers tailored to their requirements.
 
-### 4. Building and Packaging
+### 4. [Building and Packaging](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/overview.md)
 
 - Comprehending the necessity to package code
 - Using package managers to package code and upload to a remote managing platform
