@@ -36,7 +36,7 @@ Please note that we might adjust the time table during the semester. You find a 
 |    5.1 | 18.11. |Lecture | 4 | [Introduction to Packaging](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/intro_slides.md), [Packaging Python Code (setup.py, pip, conda)](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/packaging_python_slides.md) | Ishaan |
 |    5.2 | 18.11. |Lab | 4 | [Packaging Python Code Exercise](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/exercise_python_packaging_text.md) | Ishaan |
 |    6.1 | 25.11. |Lecture | 4 | [System Paths, Libraries, and How to Use Them](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/systempaths_and_librarytools_slides.md), [Make](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/make_slides.md), [CMake](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/cmake_slides.md) | Alexander and Benjamin |
-|    6.2 | 25.11. |Lab | 4 | Let's fight with CMake, Docker, and some dependencies | Benjamin |
+|    6.2 | 25.11. |Lab | 4 | [Let's fight with CMake, Docker, and some dependencies](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/exercise_cmake_text.md) | Benjamin |
 |    7.1 | 02.12. |Lecture | 4 | tbd. |  |
 |    7.2 | 02.12. |Lab | 4 | tbd. | |
 |    8.1 | 09.12. |Lecture | 5 | documentation tools | Alexander |
