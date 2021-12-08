@@ -39,7 +39,7 @@ Please note that we might adjust the time table during the semester. You find a 
 |    6.2 | 25.11. |Lab | 4 | [Let's fight with CMake, Docker, and some dependencies](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/exercise_cmake_text.md) | Benjamin |
 |    7.1 | 02.12. |Lecture | 4 | [Creating Debian Packages from CMake](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/packaging_debian_slides.md) | Alexander |
 |    7.2 | 02.12. |Lab | 4 | [Packaging with CPack](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/packaging_cpack_debian_exercise.md) | Alexander |
-|    8.1 | 09.12. |Lecture and Lab| 5 | [Packaging for High-Performance Computing and for you](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/packaging_hpc_slides.md) and Exercise (TBD) | Alexander |
+|    8.1 | 09.12. |Lecture and Lab| 5 | [Packaging for High-Performance Computing and for you](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/packaging_spack_slides.md), [Exercise: Packages with Spack](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/building-and-packaging/material/packaging_spack_exercise.md)  | Alexander |
 |    8.2 | 09.12. |Lecture | 5 | Technical writing | Benjamin |
 |    9.1 | 16.12. |Lecture and Lab | 5 | documentation tools | Alexander |
 |    9.2 | 16.12. |Presentations | C | 2nd student presentations | students |
