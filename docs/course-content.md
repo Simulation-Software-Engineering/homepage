@@ -39,7 +39,7 @@ The lecture and the accompanying lab assignments are organized in 7 chapters.
 - How to easily add your code to package managers for reproducibility.
 - How to create reproducible builds or environments?
 
-### 4. Documentation
+### 4. [Documentation](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/04_documentation/README.md)
 
 - Understand what you want to document and that there are different aspects (code, development, API, usage).
 - The students can choose the right tool for the documentation needs.
