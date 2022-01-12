@@ -47,7 +47,7 @@ The lecture and the accompanying lab assignments are organized in 7 chapters.
 - The students know fundamentals of technical writing.
 - Students understand the importance of documentation for themselves and others.
 
-### 5. Testing and Continuous Integration
+### 5. [Testing and Continuous Integration](https://github.com/Simulation-Software-Engineering/Lecture-Material/tree/main/05_testing_and_ci)
 
 - What type of test to use for what use case.
 - Why are tests important?
