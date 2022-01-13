@@ -44,7 +44,7 @@ Please note that we might adjust the time table during the semester. You find a 
 |    9.1 | 16.12. |Lecture and Lab/Homework | 4 | [Lightweight Markup Languages](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/04_documentation/markup_languages_slides.md), [Code Documentation Tools](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/04_documentation/tools_slides.md), [Homework/exercise: Writing and Publishing Documentation](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/04_documentation/tools_exercise.md) | Alexander |
 |    9.2 | 16.12. |Presentations | C | 2nd student presentations | students |
 |   10.1 | 13.01. |Lecture | 6 | [Introduction to Testing](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/05_testing_and_ci/intro_slides.md), [Testing Python Code](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/05_testing_and_ci/python_testing_slides.md) | Ishaan |
-|   10.2 | 13.01. |Lab | 6 | | Ishaan |
+|   10.2 | 13.01. |Lab | 6 | [Testing Python Code exercise](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/05_testing_and_ci/python_testing_exercise.md) | Ishaan |
 |   11.1 | 20.01. |Lecture | 6 | tbd. | |
 |   11.2 | 20.01. |Lab | 6 | tbd. | |
 |   12.1 | 27.01. |Lecture | 7 | tbd. | |
