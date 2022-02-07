@@ -54,7 +54,7 @@ The lecture and the accompanying lab assignments are organized in 7 chapters.
 - The students learn how to automate tests using GitHub and GitLab.
 - The students have an overview over different testing frameworks.
 
-### 6. Legal, Archiving, Community, and More
+### 6. [Legal, Archiving, Community, and More](https://github.com/Simulation-Software-Engineering/Lecture-Material/tree/main/06_miscellaneous)
 
 - Understand why it is important to add a license to one's code.
 - Which license to pick for your code.
