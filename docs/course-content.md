@@ -71,4 +71,19 @@ Parallel to the weekly lab work, you work on an individual challenge, where you 
 2. You analyze the RSE infrastructure and the development cycle of the software package (second quarter of the course).
 3. You contribute to the software package. The contribution can be small, but should not be trivial. Possible examples: Adding a new tutorial, extending the documentation, working on a "good first issue", adding support of a new package manager. Important is to properly go through all development steps if possible (contact community, open issue, open pull request, test, review, merge).
 
-The weekly lab work and assignments are an important part of the course. There will be **no** written or oral exam at the end of the lecture. Instead, you are evaluated continuously based on the lab work and the challenge.
+We got amazing contributions when we did this lecture previously:
+
+### Highlights from winter term 2021/22
+
+- **Kim Kröner** [added user documentation](https://github.com/JuliaPlots/Makie.jl/pull/1641) to the [Julia visualization toolbox Makie](https://makie.juliaplots.org/stable/).
+- **Larissa Brencher**, among other contributions, implemented a new [graph partitioning via the PT-Scotch package](https://git.iws.uni-stuttgart.de/dumux-repositories/dumux/-/merge_requests/3005) into the [porous media simulator DuMuX](https://dumux.org/).
+- **Sabri Bektas** [extended the OsmWebWizard](https://github.com/eclipse/sumo/issues/7585) of the [traffic simulation package SUMO](https://www.eclipse.org/sumo/) to allow the user to distinguish between road types, minimizing the downloaded and rendered OpenStreetMap data.
+- **Jonathan Haag** [improved a tutorial](https://github.com/projectmesa/mesa/issues/1109) of the [agent-based modeling framework MESA](https://mesa.readthedocs.io/en/latest/).
+- **Max Hausch** [contributed in many different ways](https://github.com/mininet/mininet/pulls?q=is%3Apr+author%3Acheriimoya) to the  [emulator for rapid prototyping of software defined networks Mininet](https://github.com/mininet/mininet)
+- **Nicolas Geldner**, among other contributions, [simplified geometric calculations](https://github.com/precice/precice/pull/1179) in the [coupling library preCICE](https://precice.org/).
+
+Some quotes from students:
+
+- *All in all it was massive experience for me. I never contributed to an OpenSource project and while doing this challenge I learned a lot.*
+- *The communication with the developers was usually fast and they offered a lot of help and feedback regarding my work.*
+- *I found the whole experience fun, and I'm certain that I'm way more comfortable to contribute and engage in open source projects in the future.*

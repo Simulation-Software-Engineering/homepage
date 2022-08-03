@@ -38,7 +38,7 @@ We encourage **you** to help us extend these resources and fix mistakes.
 
 ## Exam
 
-The course has a so-called *"course accompanying examination"*. This means, there will be no single exam. Instead, we evaluate the students' performance on the individual challenge, on the weekly exercises, and on the overall engagement. Still, wou will have to register for the *"exam"* on campus. **Point of no return**: Once you gave the first presentation (Nov 11), you have to register.
+The course has a so-called *"course accompanying examination"*. This means, there will be no single exam. Instead, we evaluate the students' performance on the individual challenge, on the weekly exercises, and on the overall engagement. Still, wou will have to register for the *"exam"* on campus. **Point of no return**: Once you gave the first presentation (presumably early November), you have to register.
 
 ## Additional information for SimTech students
 
