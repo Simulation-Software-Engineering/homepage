@@ -18,8 +18,8 @@ description: >-
 | Name | Institute | Contact |
 |----- | --------- | ------- |
  [Ishaan Desai](https://www.ipvs.uni-stuttgart.de/institute/team/Desai/), [GitHub](https://github.com/IshaanDesai) | [Usability and Sustainability of Simulation Software](https://www.ipvs.uni-stuttgart.de/departments/us3/) | [ishaan.desai@ipvs.uni-stuttgart.de](mailto:ishaan.desai@ipvs.uni-stuttgart.de) |
- 
-## Previous lecturer 
+
+## Previous lecturer
 
 The course would have not been possible without ...
 
