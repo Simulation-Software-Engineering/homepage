@@ -21,4 +21,4 @@ There is not strict distinction between both slots. It depends on the topic and 
 
 ## Time table
 
-We will add a detailed time table at the beginnging of the lecture period. As a reference, you can already have a look at the one from [winter term 2021/22 on GitHub](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/timetable.md).
+You can find a detailed [time table on GitHub](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/timetable.md).
