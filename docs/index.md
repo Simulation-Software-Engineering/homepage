@@ -7,7 +7,7 @@ You find general information about the course under [course information](course-
     <iframe width="560" height="315" src="https://www.youtube.com/embed/1GUVWLSxt2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-Some quotes from last year's evaluation:
+Some quotes from previous evaluations:
 
 - *I wished I had such a lecture already during my Bachelor's program.*
 - *I like that we've seen so many different topics that are relevant for each project you work on.*
@@ -16,3 +16,5 @@ Some quotes from last year's evaluation:
 
 More details on the [course content](course-content) and the [place and time](place-and-time.md).
 If you have any questions or suggestions, please contact the [instructors](staff.md).
+
+As Benjamin is currently on parental leave, there will be **no course in winter term 2023/24**. Next course presumably in winter term 2024/25. 
