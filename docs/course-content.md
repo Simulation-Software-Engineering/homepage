@@ -73,8 +73,10 @@ Parallel to the weekly lab work, you work on an individual challenge, where you 
 
 We got amazing contributions when we did this lecture previously:
 
-### Highlights from winter term 2021/22
+### Highlights from previous semesters
 
+- **Julius Herb** implemented several demos, including [one for the biharmonic equation](https://github.com/FEniCS/dolfinx/pull/2508) to the [finite element library FEniCSx](https://fenicsproject.org/).
+- **Felix Neubauer** implemented a [replay module](https://github.com/Logende/mesa-replay) for the [agent-based simulation framework MESA](https://mesa.readthedocs.io/en/latest/).
 - **Kim Kröner** [added user documentation](https://github.com/MakieOrg/Makie.jl/pull/1641) to the [Julia visualization toolbox Makie](https://makie.juliaplots.org/stable/).
 - **Larissa Brencher**, among other contributions, implemented a new [graph partitioning via the PT-Scotch package](https://git.iws.uni-stuttgart.de/dumux-repositories/dumux/-/merge_requests/3005) into the [porous media simulator DuMuX](https://dumux.org/).
 - **Sabri Bektas** [extended the OsmWebWizard](https://github.com/eclipse/sumo/issues/7585) of the [traffic simulation package SUMO](https://www.eclipse.org/sumo/) to allow the user to distinguish between road types, minimizing the downloaded and rendered OpenStreetMap data.

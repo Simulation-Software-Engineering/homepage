@@ -7,19 +7,15 @@ description: >-
 
 # Staff/contact
 
-## Lecturer
+## Lecturers
 
 | Name | Institute | Contact |
 |----- | --------- | ------- |
-| [Benjamin Uekermann](https://www.ipvs.uni-stuttgart.de/institute/team/Uekermann-00001/), [GitHub](https://github.com/uekerman) | [Usability and Sustainability of Simulation Software](https://www.ipvs.uni-stuttgart.de/departments/us3/) | [benjamin.uekermann@ipvs.uni-stuttgart.de](mailto:benjamin.uekermann@ipvs.uni-stuttgart.de) |
-
-## Teaching assistant
-
-| Name | Institute | Contact |
-|----- | --------- | ------- |
+ [Benjamin Uekermann](https://www.ipvs.uni-stuttgart.de/institute/team/Uekermann-00001/), [GitHub](https://github.com/uekerman) | [Usability and Sustainability of Simulation Software](https://www.ipvs.uni-stuttgart.de/departments/us3/) | [benjamin.uekermann@ipvs.uni-stuttgart.de](mailto:benjamin.uekermann@ipvs.uni-stuttgart.de) |
  [Ishaan Desai](https://www.ipvs.uni-stuttgart.de/institute/team/Desai/), [GitHub](https://github.com/IshaanDesai) | [Usability and Sustainability of Simulation Software](https://www.ipvs.uni-stuttgart.de/departments/us3/) | [ishaan.desai@ipvs.uni-stuttgart.de](mailto:ishaan.desai@ipvs.uni-stuttgart.de) |
+ [Gerasimos Chourdakis](https://www.ipvs.uni-stuttgart.de/institute/team/Chourdakis/), [GitHub](https://github.com/MakisH) | [Simulation of Large Systems](https://www.ipvs.uni-stuttgart.de/departments/sgs/) | [gerasimos.chourdakis@ipvs.uni-stuttgart.de](mailto:gerasimos.chourdakis@ipvs.uni-stuttgart.de) |
 
-## Previous lecturer
+## Previous lecturers
 
 The course would have not been possible without ...
 

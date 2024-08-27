@@ -12,7 +12,7 @@ We plan to do the complete course **on site**. As the course is heavy on interac
 
 ## Time
 
-Lectures and lab work are both on Thursdays:
+Lectures and lab work are both on Wednesdays:
 
 * 09:45–11:15
 * 15:45–17:15

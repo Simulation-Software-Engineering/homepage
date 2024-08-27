@@ -17,4 +17,4 @@ Some quotes from previous evaluations:
 More details on the [course content](course-content) and the [place and time](place-and-time.md).
 If you have any questions or suggestions, please contact the [instructors](staff.md).
 
-As Benjamin is currently on parental leave, there will be **no course in winter term 2023/24**. Next course presumably in winter term 2024/25.
+Next course in winter term 2024/25 (see also [C@MPUS](https://campus.uni-stuttgart.de/cusonline/ee/rest/pages/slc.tm.cp/course/403702)).
