@@ -43,3 +43,9 @@ The course has a so-called *"course accompanying examination"*. This means, ther
 ## Additional information for SimTech students
 
 You might also be interested in the course *Sustainable Development of Simulation Software* by Bernd Flemisch and Dennis Gläser, which is starting in summer term 2022. Their course has a stronger focus on software engineering patterns and project work in C++ for simulation software. Our course *Simulation Software Engineering* focuses more on the tools commonly used in the development of simulation software. The course of Flemisch/Gläser is **not** a prerequisite to follow our course on simulation software engineering and neither vice versa. We encourage you, however, to follow both courses if you are interested in the topic.
+
+## Information for repository maintainers
+
+> This paragraph is meant for developers maintaining repositories to which students of the SSE course try to contribute.
+
+One of the learning goals of the SSE course is being able to contribute to existing large-scale research codes. One part of the course is to indeed contribute something small to such a code. As a maintainer of such a code, please treat the students as normal (experienced) external contributors. They learn in the SSE course how to follow contribution guidelines and other best practices. As a maintainer, you do not have to advise them as closely as you might do with your own students. Following your own contribution standards and code of conduct is sufficient. You can help the students by labeling suitable existing isues as *good first issues*. We, the [lecturers of the SSE course](staff.md), try to follow conversations of our students in issues or pull requests as closely as possible. You can always tag us on GitHub or directly reach out to us. Each year, we are giving the students a list of software projects as suggestions on where to contribute. If you ever want us to remove your project from this list, please let us know.
