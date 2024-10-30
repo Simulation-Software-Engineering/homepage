@@ -7,7 +7,7 @@ description: >-
 
 ## Research Software Engineering
 
-Software is an integral part of nowadays research. A [UK survey in 2014](https://zenodo.org/record/1183562#.YTHZ91uxUUE) found that 7 out of 10 researchers could not conduct research without software. However, research software engineering (RSE) does not yet get the necessary attention in research and in teaching. All this applies to simulation software in particular.
+Software is an integral part of nowadays research. A [UK survey in 2014](https://zenodo.org/records/1183562) found that 7 out of 10 researchers could not conduct research without software. However, research software engineering (RSE) does not yet get the necessary attention in research and in teaching. All this applies to simulation software in particular.
 
 Read more:
 

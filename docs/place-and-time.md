@@ -7,7 +7,7 @@ description: >-
 
 ## Lecture hall
 
-All sessions take place in [38 - 0.108](https://campus.uni-stuttgart.de/cusonline/pl/ui/$ctx;lang=DE/ris.ris?pOrgNr=14&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=6050009&pRaumNr=7040&pActionFlag=A&pShowEinzelraum=J), Universitätsstr. 38, ground floor.
+All sessions take place in [38 - 0.108](https://campus.uni-stuttgart.de/cusonline/pl/ui/$ctx;lang=de/ris.ris?corg=14&pActionFlag=A&pQuellGeogrBTypNr=5&pQuellGeogrBerNr=&pZielGeogrBTypNr=5&pZielGeogrBerNr=6050009&pDummySelectBox=&pAnsichtNr=&pKombinationNr=&pZoomFaktor=&pRaster=&pRaumPKs=&pVirtGeogrBerPKs=&pCoordsX=&pCoordsY=&pVirtChildGeogrBerNr=&pRaumNr=7040&pShowEinzelraum=J), Universitätsstr. 38, ground floor.
 We plan to do the complete course **on site**. As the course is heavy on interactive labs, a hybrid mode seems not very suitable. Please contact us if you can only join online nonetheless. If needed, we will find a solution.
 
 ## Time
