@@ -82,6 +82,7 @@ We got amazing contributions when we did this lecture previously:
 - **Jonathan Haag** [improved a tutorial](https://github.com/projectmesa/mesa/issues/1109) of the [agent-based modeling framework MESA](https://mesa.readthedocs.io/latest/).
 - **Max Hausch** [contributed in many different ways](https://github.com/mininet/mininet/pulls?q=is%3Apr+author%3Acheriimoya) to the  [emulator for rapid prototyping of software defined networks Mininet](https://github.com/mininet/mininet)
 - **Nicolas Geldner**, among other contributions, [simplified geometric calculations](https://github.com/precice/precice/pull/1179) in the [coupling library preCICE](https://precice.org/).
+- **Vaishnavi Wani** [contributed a coupled thermoelastic solver](https://github.com/su2code/SU2/pull/2404) to the [computational fluid dynamics code SU2](https://su2code.github.io/) (see a related [tutorial](https://github.com/Vaish-W/Thermoelasticity)).
 
 Some quotes from students:
 
