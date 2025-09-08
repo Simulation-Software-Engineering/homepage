@@ -17,4 +17,4 @@ Some quotes from previous evaluations:
 More details on the [course content](course-content) and the [place and time](place-and-time.md).
 If you have any questions or suggestions, please contact the [instructors](staff.md).
 
-Next course in winter term 2024/25 (see also [C@MPUS](https://campus.uni-stuttgart.de/cusonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/403702?$ctx=design%3Dca)).
+Next course in winter term 2025/26 (see also [C@MPUS](https://campus.uni-stuttgart.de/cusonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/443297)).
